@@ -22,7 +22,6 @@
 /* =========================
    SysTick
    ========================= */
-
 #define SYST_CSR        (*(volatile uint32_t *)0xE000E010UL)
 #define SYST_RVR        (*(volatile uint32_t *)0xE000E014UL)
 #define SYST_CVR        (*(volatile uint32_t *)0xE000E018UL)
