@@ -13,7 +13,6 @@
 - `stm32f103.ld`: Linker script
 - `Makefile`: File biên dịch
 ## Biên dịch và Nạp code
-```bash
 make clean
 make
 make flash
