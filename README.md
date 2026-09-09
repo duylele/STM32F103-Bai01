@@ -13,4 +13,4 @@
 - `stm32f103.ld`: Linker script
 - `Makefile`: File biên dịch
 # Video demo
-
+https://drive.google.com/file/d/12v4vo7gRM2eIP9ThWWH9QB1blUiL9gf7/view?usp=sharing
