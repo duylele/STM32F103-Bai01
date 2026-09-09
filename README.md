@@ -12,5 +12,10 @@
 - `startup.s`: Startup code
 - `stm32f103.ld`: Linker script
 - `Makefile`: File biên dịch
+##  Biên dịch và Nạp code
+```bash
+make clean
+make
+make flash
 # Video demo
 https://drive.google.com/file/d/12v4vo7gRM2eIP9ThWWH9QB1blUiL9gf7/view?usp=sharing
